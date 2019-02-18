@@ -1,0 +1,38 @@
+Skrypt uruchomiony pon, 18 lut 2019, 06:04:07
+/home/tomasz/workspace-clojure/base64-without-bitwise-operators
+Compiling pl.tomaszgigiel.base64-without-bitwise-operators.core
+/home/tomasz/workspace-clojure/base64-without-bitwise-operators
+/home/tomasz/workspace-clojure/base64-without-bitwise-operators
+Compiling pl.tomaszgigiel.base64-without-bitwise-operators.core
+
+lein test pl.tomaszgigiel.base64-without-bitwise-operators.base64-test
+
+lein test pl.tomaszgigiel.base64-without-bitwise-operators.test-config
+
+Ran 4 tests containing 32 assertions.
+0 failures, 0 errors.
+/home/tomasz/workspace-clojure/base64-without-bitwise-operators
+/home/tomasz/workspace-clojure/base64-without-bitwise-operators
+
+lein test pl.tomaszgigiel.base64-without-bitwise-operators.base64-test
+
+Ran 4 tests containing 32 assertions.
+0 failures, 0 errors.
+/home/tomasz/workspace-clojure/base64-without-bitwise-operators
+/home/tomasz/workspace-clojure/base64-without-bitwise-operators
+Compiling pl.tomaszgigiel.base64-without-bitwise-operators.core
+Created /home/tomasz/workspace-clojure/base64-without-bitwise-operators/target/uberjar/base64-without-bitwise-operators.jar
+Created /home/tomasz/workspace-clojure/base64-without-bitwise-operators/target/uberjar/base64-without-bitwise-operators-uberjar.jar
+/home/tomasz/workspace-clojure/base64-without-bitwise-operators
+/home/tomasz/workspace-clojure/base64-without-bitwise-operators
+ok
+[2019-02-18 06:04:55,361][INFO][pl.tomaszgigiel.base64-without-bitwise-operators.core] ok
+/home/tomasz/workspace-clojure/base64-without-bitwise-operators
+/home/tomasz/workspace-clojure/base64-without-bitwise-operators
+Compiling pl.tomaszgigiel.base64-without-bitwise-operators.core
+ok
+[2019-02-18 06:05:06,325][INFO][pl.tomaszgigiel.base64-without-bitwise-operators.core] ok
+/home/tomasz/workspace-clojure/base64-without-bitwise-operators
+/home/tomasz/workspace-clojure/base64-without-bitwise-operators
+
+Skrypt wykonany pon, 18 lut 2019, 06:05:06
